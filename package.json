@@ -1,20 +1,13 @@
 {
-  "name": "my-app",
+  "name": "ala-3",
   "version": "1.0.0",
-  "description": "My Node.js Application",
+  "description": "- Responsive Watches Website Using HTML CSS & JavaScript - Smooth scrolling in each section. - Includes a dark and light mode. - Developed first with the Mobile First methodology, then for desktop. - Compatible with all mobile devices and with a beautiful and pleasant user interface.",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start"
-      
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-      "express": "^4.17.1"
-  }
-
-
-  
-
+  "license": "ISC"
 }
